@@ -1,0 +1,15 @@
+[color=si]{
+    color: red;
+}
+[ola=si]{
+    color: aquamarine;
+}
+[hola=ola]{
+    color: brown;
+}
+[si=si]{
+    color: green;
+}
+[hola=si]{
+    color: blueviolet;
+}

@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+.color-red{
+    color: blue;
+}
+[ranciobich="color-so"]{
+    color: green;
+
+}
+#si{
+    color: blue;
+}
+h1{
+    color: grey;   /*!Important*/
+}
